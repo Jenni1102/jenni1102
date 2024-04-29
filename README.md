@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Jennifer</h1>
-<h3 align="center">Una desarrolladora de Argentina</h3>
+<h3 align="center">Soy estudiante de programacion</h3>
 
 <h3 align="left">Conéctate conmigo:</h3 >
 <p align="left">
